@@ -69,7 +69,8 @@ RGEasyTextField.create( parentGroup, x, y, width, height, params )
  * params - Table containing named settings parameters.
 
 
-##### Named (Settings) Parameters
+Named (Settings) Parameters
+-------------------------
  * debugEn - If true, print debug ouptut.
  * placeholder - Text to display when field is empty.
  * fill (LIGHTGREY) - Table containing color code for field background.
