@@ -59,7 +59,8 @@ emailField:setPrevField( passwordField )
 ```
 
 
-##### Syntax
+Syntax
+-------------------------
 ```lua
 RGEasyTextField.create( parentGroup, x, y, width, height, params )
 ```
