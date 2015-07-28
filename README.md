@@ -45,7 +45,7 @@ myField:setText( "Bob" )
 ```
 
 ##### Set Next and Prev Fields
-The windows version supports tab, shift + tab, enter, and shift + enter advancement and return to next/prior fields like traditional windows apps.
+The Windows version supports tab, shift + tab, enter, and shift + enter advancement and return to next/prior fields like traditional Windows apps.
 
 To enable this set the next and prev fields.
 ```lua
