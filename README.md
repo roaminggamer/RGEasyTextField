@@ -3,6 +3,11 @@ RGEasyTextField
 
 RGEasyTextField is a library for creating native.newTextField() objects compatible with Windows.  This is a Corona SDK library.
 
+Warning!!
+-------------------------
+If running in Windows version of simulator, be sure to simulate an Android device to get keyboard input.
+
+
 Basic Usage
 -------------------------
 
